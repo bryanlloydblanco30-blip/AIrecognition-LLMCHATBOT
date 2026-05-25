@@ -1,0 +1,34 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+
+# Dataset
+datasets/
+data/
+backend/trash-uibackend/data/
+backend/trash-uibackend/data
+
+# YOLO
+runs/
+*.cache
+
+# Trained models
+models/
+*.pt
+*.weights
+
+# Mac
+.DS_Store
+
+# Logs
+logs/
+
+.claude/
+.gemini/
+.env
+.env.local
+*.local.json
