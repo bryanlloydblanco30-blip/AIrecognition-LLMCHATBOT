@@ -7,7 +7,6 @@ An intelligent trash recognition and classification system that helps identify t
 - 📸 **Real-time Trash Scanning** - Camera and image upload support
 - 🎯 **Dual Classification** - Identifies both trash type and category
 - 📊 **Interactive Dashboard** - View statistics and quick scan options
-- 🛒 **Eco Shop** - Browse sustainable products
 - 💬 **EcoBot** - AI chatbot for recycling guidance
 - 📱 **Responsive Design** - Mobile-friendly interface
 
